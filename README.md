@@ -1,5 +1,7 @@
 Project - U.S. Housing Market Factors
 
+Introduction:
+
 The U.S. housing market depends on various factors. Here are some macroeconomic factors relevant to the market. The following attributes have been collected. Your task is to load the data, pre-process it, explore it, and visualize it.
 
 - Date: Year
